@@ -1,6 +1,8 @@
 <?php
 
+use Illuminate\Support\Facades\App;
 use Laravel\Sanctum\Sanctum;
+use App\Http\Middleware\CheckToken;
 
 return [
 
