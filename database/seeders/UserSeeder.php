@@ -18,28 +18,28 @@ class UserSeeder extends Seeder
             'name' => 'Rendra',
             'email' => 'rendragituloh@gmail.com',
             'password' => bcrypt('password'),
-            'status' => 'active',
+            'status' => 'inactive',
         ]);
 
         User::create([
             'name' => 'Khariz',
             'email' => 'Kharizajaah@gmail.com',
             'password' => bcrypt('password'),
-            'status' => 'active',
+            'status' => 'inactive',
         ]);
 
         User::create([
             'name' => 'Joko',
             'email' => 'Jokoterdepan@gmail.com',
             'password' => bcrypt('password'),
-            'status' => 'active',
+            'status' => 'inactive',
         ]);
 
         User::create([
             'name' => 'Mariyam',
             'email' => 'Maiyamyuk@gmail.com',
             'password' => bcrypt('password'),
-            'status' => 'active',
+            'status' => 'inactive',
         ]);
 
 

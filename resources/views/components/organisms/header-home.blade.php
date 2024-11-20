@@ -2,7 +2,7 @@
     <div class="px-4 mx-auto sm:px-6 lg:px-8">
         <div class="flex items-center justify-between h-16 lg:h-20">
             <div class="flex-shrink-0">
-                <a href="#" title="" class="flex">
+                <a href="/" title="" class="flex">
                     <img class="w-auto h-8" src="https://codingcollective.com/wp-content/uploads/2024/10/logo-co2.png"
                         alt="logo" />
                 </a>
